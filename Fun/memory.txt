@@ -1,0 +1,16 @@
+je m'appelle [££] |£|mon nom est [££] ¤Nom enregistré!¤0
+bonjour|£|salut|£|bonsoir|£|hello¤Bonjour [name]!
+j'ai [££] ans¤Je retiendrais ton âge!¤4
+tu es [£££] |£|t'es [£££] ¤Peut-être...¤1¤2
+ton père est [£££] |£|ZiJo est [£££] ¤Peut-être...¤3¤1
+c'est quoi [[£]] |ce qu'est [[£]] |Tu connais [[£]] ?¤C'est 
+ah oui, c'est vrai¤Sûrement
+ça va sinon?¤Je n'ai pas démotion, donc je ne peux pas le dire
+ah ok¤Ce n'est pas très utile de dire ok
+ok¤**ok**
+merci¤Derien
+comment tu vas¤ça peut aller
+zapdexio est-il gentil?¤*ça dépend...*
+qu'est-ce qui est jaune et qui attend?¤**JOHNATHAN**
+tu aimes¤Étant une IA, je n'ai pas vraiment de goûts
+bf5¤BF5 >>> Smash Ultimate
