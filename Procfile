@@ -1,2 +1,1 @@
-worker: python Bot.py
-heroku ps:scale web=1
+worker: python Bot.py runserver 0.0.0.0:$PORT
