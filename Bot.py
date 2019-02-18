@@ -158,7 +158,7 @@ async def on_message(message):
                     Answer = Answer[3:]
                     REACTadj = True
                 else:
-                    Anser = "Je ne connais pas cet adjectif"
+                    Answer = "Je ne connais pas cet adjectif"
             if Answer == "|£|":
                 if Learn:
                     SAVING = message.content.lower()
