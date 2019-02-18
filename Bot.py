@@ -1,6 +1,7 @@
 import discord
 from discord.ext.commands import Bot
 import AI
+import os
 Rebeca = Bot(command_prefix="£")
 list_commands = ("£wash")
 Rules = open("rules.txt")
@@ -220,4 +221,4 @@ async def on_message(message):
             else:
                 await Rebeca.send_message(Chan,M)
     return
-Rebeca.run("NTQzNzc0NzU1MjU4NDk5MDgz.D0BfQQ.1rWPGT4JqnBvl1tCqc3hniBmRRg")
+Rebeca.run(os.getenv('Token'))
